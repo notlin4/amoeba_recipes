@@ -8,7 +8,7 @@ Minecraft Java Edition `1.14 - 1.19`
 
 ## 安裝
 
-從 [Releases](../../releases) 下載後將 `amoeba_recipes.zip` 壓縮檔放到 `.minecraft\saves\<世界名稱>\datapacks` 路徑中，  
+從 [Releases](../../releases) 下載後將 `amoeba_recipes.zip` 壓縮檔放到 `Minecraft 資料夾\saves\<世界名稱>\datapacks` 路徑中，  
 進入該世界後以管理員身分輸入指令 `/datapack enable "file/amoeba_recipes.zip"` 即可。
 
 ## 說明
@@ -26,7 +26,7 @@ Minecraft Java Edition `1.14 - 1.19`
   鵝卵石半磚×2 → 鵝卵石×1 (原版的鵝卵石半磚無法做成鵝卵石）
   雪塊×1 → 雪球×4（雪塊必須以鏟子挖掘才會掉落雪球）
   西瓜方塊×1 → 西瓜片×9（挖掘西瓜方塊並非必定掉落西瓜片×9）
-
+  ```
 ## 新增配方
 
 <img src="https://github.com/amoeba1125/amoeba_recipes/assets/121224522/3e143526-8d7b-49bc-9e9d-5c0d23277d1c" width="500px">
